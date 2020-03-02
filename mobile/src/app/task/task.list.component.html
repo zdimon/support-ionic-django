@@ -1,0 +1,45 @@
+<ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <ion-title>
+        Заявки
+      </ion-title>
+          <ion-select #sel (ionChange)="setFilter(sel.value)" interface="popover" slot="end" [(ngModel)]="filter" okText="Сохранить" cancelText="Отменить">
+            <ion-select-option [value]='"new"'>В процессе рассмотрения</ion-select-option>
+            <ion-select-option [value]='"inprocess"'>В работе</ion-select-option>
+            <ion-select-option [value]='"done"'>Выполнен</ion-select-option>
+            <ion-select-option [value]='"all"'>Все заявки</ion-select-option>
+            <ion-select-option [value]='"deleted"'>Архив</ion-select-option>
+          </ion-select>
+          <ion-buttons slot="start">
+            <ion-icon name="refresh" slot="end" (click)="refresh()" ></ion-icon>
+          </ion-buttons>
+          <ion-buttons slot="end">
+            
+          </ion-buttons>
+          <ion-title slot="end">
+            <ion-button [routerLink]="['/task/new']" color="primary">
+              <ion-icon name="add-circle-outline"></ion-icon>Новая заявка
+            </ion-button>
+          </ion-title>
+
+
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-content>
+        <ion-list>
+          <ion-item
+                    [routerLink]="['/task','show',item.id]" 
+                    *ngFor="let item of items">
+            <ion-icon slot="start" color="medium" name="{{ item.status_icon }}"></ion-icon>
+            {{ item.title }}   
+            <div class="item-note" slot="end">
+                #{{ item.id }}
+            </div> 
+          </ion-item>
+      </ion-list>
+  </ion-content>
+  

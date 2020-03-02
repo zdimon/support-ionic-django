@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    
+    <div class="row">
+        
+        
+
+        <div class="col-md-12">
+                <h2> Регистрация завершена </h2>
+               
+            <div class="alert alert-success" role="alert">
+            
+                Вам необходимо пройти по <a target=_blank href="http://{{ TELEGRAMM_NAME }} ">ссылке</a> и нажать кнопку Start или ввести команду /start.
+                
+            </div>                
+
+        </div>    
+    </div>
+{% endblock %}

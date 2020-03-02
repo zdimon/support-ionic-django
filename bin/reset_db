@@ -1,0 +1,7 @@
+. ./venv/bin/activate
+cd support
+./manage.py del_tclients
+./manage.py del_tasks
+./manage.py del_clients
+./manage.py del_users
+./manage.py trello_get_list

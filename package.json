@@ -1,0 +1,24 @@
+{
+  "name": "support",
+  "version": "1.0.0",
+  "description": "## Installation on Ubuntu",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/wezom/support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wezom/support#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}

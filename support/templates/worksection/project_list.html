@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+    
+    <div class="row">
+        
+        {% include "worksection/parts/menu.html" %}
+
+        <div class="col-md-12">
+                <h2> Список проектов (worksection) </h2>
+                 <a href="{% url 'w_import_projects' %}" class="float-right">Импортировать из worksection</a>
+                
+
+
+        </div>    
+    </div>
+{% endblock %}

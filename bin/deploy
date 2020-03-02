@@ -1,0 +1,2 @@
+gitc
+ssh -t support@support.wezom.agency 'cd support;git pull'

@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+    
+    <div class="row">
+        
+        
+
+        <div class="col-md-12">
+                <h2> Worksection </h2>
+               
+                <a class="btn btn-success" href="{% url 'import_projects_api' %}"> Import data via API.</a>
+
+                <a class="btn btn-success" href="{% url 'get_hot_events' %}"> Import data via Parser</a>
+
+                
+
+
+        </div>    
+    </div>
+{% endblock %}

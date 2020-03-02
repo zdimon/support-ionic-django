@@ -1,0 +1,12 @@
+venv
+*.pyc
+support/db.sqlite3
+.vscode
+node_modules
+support/support/local.py
+log.txt
+support/media/files/*
+support/media/uploads
+mobile/node_modules
+mobile/src/app/globals.ts
+npm-debug.log

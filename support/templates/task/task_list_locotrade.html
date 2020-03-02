@@ -1,0 +1,205 @@
+<style>
+
+.alert-fixed {
+    position:fixed; 
+    top: 0px; 
+    left: 87%; 
+    width: 100%;
+    z-index:9999; 
+    border-radius:5px
+}
+
+.star-rating {
+    font-size: 35px;
+}
+.star-active {
+    color: yellow;
+}
+#btn-close-task {
+    display: none;
+}
+.sup_loader {
+    position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.ticket-description {
+    overflow: hidden;
+    white-space: nowrap;
+    height: 1.4em;
+    text-overflow: ellipsis;
+    max-width: 11em;
+    color: rgb(117, 117, 117);
+    margin-bottom: 8px;
+}
+
+.ticket-comments {
+    font-size: 12px;
+}
+
+.ticket-comments p {
+    border: 1px solid #f4f4f4;
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    background: #fff;
+}
+
+</style>
+<div class="col-xs-12" id="sup_task_table">
+
+    <a href="#" data-status="deleted" class="btn btn-flat bg-red margin sup_status_task_button">Закрытые</a>    
+
+    <a href="#" data-status="new" class="btn btn-flat bg-aqua margin sup_status_task_button">В процессе рассмотрения</a> 
+
+    <a href="#" data-status="inprocess" class="btn btn-flat bg-orange margin sup_status_task_button">В работе</a> 
+
+    <a href="#" data-status="done" class="btn btn-flat bg-olive margin sup_status_task_button">Выполнено</a> 
+
+    <a href="#" data-status="all" class="btn btn-flat bg-olive margin sup_status_task_button">Все заявки</a>
+
+    <div class="box">
+        <div class="box-body table-responsive no-padding">
+            <table class="table table-hover">
+                <tbody>
+                    <tr>
+                    <th>Заголовок</th>
+                    <th>Описание</th>
+                    <!--<th>Контакты</th>-->
+                    <th>Категория</th>
+                    <th>Статус</th>
+                    <th></th>
+                    </tr>
+
+                    {% for i in items %}
+                    <tr>
+                        <td><strong><a href="#" class="show_task_link" data-id="{{ i.id }}">#{{ i.id }}  {{ i.title }} </a></strong></td>
+                        <td>
+                            <div class="ticket-description">{{ i.content }}</div>
+                            <div class="ticket-comments">{{ i.get_last_comment|safe }}</div>
+                        </td>
+                        <!-- <td>{{ i.contacts }}</td> -->
+                        <td>{{ i.category_str }}</td>
+                        <td>
+                            
+                            {{ i.get_status }}
+
+                        </td>
+                        <td>
+                            <a href="#" data-id="{{ i.pk }}" class="btn btn-flat bg-olive margin show_task_link"><i data-id="{{ i.pk }}" class="fa fa-eye"></i></a>
+
+                            {% if i.get_status != 'Закрыто' %}
+                                <a href="#" data-toggle="modal" data-target="#closeTaskModal" data-id="{{ i.pk }}" class="btn btn-flat bg-red margin del_task_link"><i data-id="{{ i.pk }}" class="fa fa-trash"></i></a>
+                            {% endif %}
+
+                        </td>
+                    </tr>
+                    {% endfor %}
+
+
+                </tbody>
+                
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div id="closeTaskModal" class="modal" role="dialog">
+        <div class="modal-dialog">
+    
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Закрытие задачи</h4>
+            </div>
+            <div class="modal-body">
+            <p>Выберите уровень обслуживания</p>
+    
+            <div class="star-rating">
+                    <span class="fa fa-star-o" data-rating="1"></span>
+                    <span class="fa fa-star-o" data-rating="2"></span>
+                    <span class="fa fa-star-o" data-rating="3"></span>
+                    <span class="fa fa-star-o" data-rating="4"></span>
+                    <span class="fa fa-star-o" data-rating="5"></span>
+                    <input type="hidden" name="whatever1" class="rating-value" value="2.56">
+            </div>
+    
+            </div>
+            <div class="modal-footer">
+
+            <button type="button" id="btn-close-task" class="btn bg-red btn-default" >Закрыть задачу</button>
+
+            <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+
+
+
+            </div>
+        </div>
+    
+        </div>
+    </div>
+
+
+    <div id="sup_popup_message" class="alert-fixed" style="display: none; width: 300px; height: 100px">
+        <div style="padding: 5px;">
+            <div id="inner-message" class="alert alert-error">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <p id="sup_popup_message_content"> </p>
+            </div>
+        </div>
+    </div>
+
+   
+
+<script>
+
+
+    $('#btn-close-task').on('click', function(e){
+            e.preventDefault();
+            $('#closeTaskModal').modal('hide');
+            //var is = confirm("Уверены?");
+            //if(is) {
+                var id = $(e.target).attr("data-id");
+                $.get( "{{ site }}/task/delTask/locotrade/"+id, function(rez){
+                    
+                   support_app.get_task_list();
+                });
+            //}       
+        });
+
+    $('.sup_status_task_button').on('click', function(e){
+        support_app.get_task_list($(e.target).attr('data-status'));
+    });
+
+    $('.fa-star-o').hover(function(){
+        console.log($(this).attr('data-rating'));
+        $(this).addClass('star-active');
+    },function(){
+        $(this).removeClass('star-active');
+    });
+
+    $('.fa-star-o').on('click',function(e){
+        $('#btn-close-task').show();
+    });
+
+</script>

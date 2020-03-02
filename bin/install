@@ -1,0 +1,10 @@
+python3 -m venv venv
+. ./venv/bin/activate
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
+cd support
+./manage.py migrate
+./manage.py load_data
+npm install
+cd static
+ln -s ../../node_modules node_modules

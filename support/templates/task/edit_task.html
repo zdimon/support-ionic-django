@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    
+    <div class="row">
+        
+        
+
+
+        <div class="col-md-12">
+                <h2> Редактирование задачи #{{ task.id }} </h2>
+ 
+                <form method="post">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <button type="submit" class="btn btn-success">Save task</button>
+                </form>                
+
+
+        </div>    
+    </div>
+{% endblock %}

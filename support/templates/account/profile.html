@@ -1,0 +1,62 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+    
+    <div class="row">
+        
+        
+
+        <div class="col-md-12">
+                <h2> Профиль </h2>
+               
+                <form action="" method="POST">
+                        {% csrf_token %} 
+
+                        <div class="form-group">
+                                <label for="exampleInputEmail1">Логин в телеграмм</label>
+                                <input name="telegramm_login"  type="text" class="form-control" id="" value="{{ profile.telegram_login|default_if_none:"" }}">
+                                <small id="emailHelp" class="form-text text-muted">
+      
+
+      
+                                </small>
+                              </div>
+
+
+                        <div class="form-group">
+                          <label for="exampleInputEmail1">Идентификатор комнаты телеграмм</label>
+                          <input readonly type="text" class="form-control" id="" value="{{ profile.telegram_room|default_if_none:"" }}" aria-describedby="emailHelp" />
+                          <small id="emailHelp" class="form-text text-muted">
+
+                        {% if profile.telegram_room %}
+                           <a target=_blank href="{% url 'test_telegramm' %}"> Тестовое сообщение в Телеграмм</a>
+                        {% else %}
+                            Необходимо пройти по ссылке <a target=_blank href="https://{{ bot_link }}"> Бот телеграма </a>
+                        затем в чате написать /start
+                        {% endif %}
+
+                          </small>
+                        </div>
+
+                        <!-- WORKSECTION -->
+
+                        <div class="form-group">
+                          <label for="exampleInputEmail1">Email в worksection</label>
+                          <input type="text" class="form-control" value="{{ profile.w_login|default_if_none:"" }}" name="w_login" />
+                        </div>
+
+
+                       
+
+                        <div class="form-group">
+                          <label for="exampleInputPassword1">Логин</label>
+                          <input type="text" readonly class="form-control" id="exampleInputPassword1" value="{{ profile.user.username }}" placeholder="Password">
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                      </form>
+
+        </div>    
+    </div>
+{% endblock %}

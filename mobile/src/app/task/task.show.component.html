@@ -1,0 +1,68 @@
+<ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <ion-title>Задача #{{ task.id }}</ion-title>
+      <ion-title slot="end">
+          <ion-button [routerLink]="['/task/list/all']" color="primary">Все заявки</ion-button>
+      </ion-title>
+    </ion-toolbar>
+</ion-header>
+
+
+      
+      <ion-card class="ion-padding">
+          <ion-grid>
+            <ion-row>
+              <ion-col size="8"> 
+                <ion-text color="dark" [innerHTML]="task.content" ion-padding></ion-text> 
+              </ion-col>
+              <ion-col size="4"><ion-label color="dark">
+                Автор: {{ task.author }}</ion-label>
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+          
+      </ion-card>
+
+
+          
+
+
+      
+      <ion-row>
+        
+        <ion-col>
+            <ion-select #sel (ionChange)="setStatus(task.id,sel.value)" value="{{ task.status }}" okText="Сохранить" cancelText="Отменить">
+              <ion-select-option value="new">В процессе рассмотрения</ion-select-option>
+              <ion-select-option value="inprocess">В работе</ion-select-option>
+              <ion-select-option value="done">Выполнен</ion-select-option>
+            </ion-select>
+        
+        </ion-col>
+      </ion-row>
+
+        
+      
+
+
+      <ion-title slot="end">
+        <h4 clas="ion-padding">Коментарии</h4>
+      </ion-title>
+
+      
+          <ion-row *ngFor="let item of task.comments" class="ion-padding border-bottom">
+            <ion-col size="9">
+                <div class="item-note line-breaker"  [innerHTML]="item.content"></div>
+                <div class="item-note"  [innerHTML]="item.link"></div>
+            </ion-col>
+            <ion-col size="3">
+                {{ item.user }}
+            </ion-col>
+
+              
+          </ion-row>
+     
+
+  <app-form-comment  [taskId]="task.id" (commentAdded)="commentAddedEmmited($event)"></app-form-comment>

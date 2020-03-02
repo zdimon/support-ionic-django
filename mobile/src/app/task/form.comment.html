@@ -1,0 +1,18 @@
+
+<form (ngSubmit)="commentForm()" class="ion-padding">
+
+  <ion-row>
+    <ion-col>
+        <ion-button type="submit" color="danger" expand="full">Сохранить</ion-button>    
+    </ion-col>
+    <ion-col>
+      <ion-button [routerLink]="['/task/photo/'+taskId]" color="primary" expand="full">Добавить фото</ion-button>    
+  </ion-col>
+  </ion-row>
+
+  <ion-row>
+    <ion-textarea [(ngModel)]="content" name="description"></ion-textarea>
+  </ion-row>
+
+  
+</form>

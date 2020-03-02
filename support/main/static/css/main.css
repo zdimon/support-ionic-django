@@ -1,0 +1,33 @@
+.header_title {
+    color: white;
+}
+
+svg path {
+    fill: white;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.header_title {
+    padding-left: 30px;
+}
+
+.nav .nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+.comment {
+    background: white;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid silver;
+    border-radius: 5px;
+}

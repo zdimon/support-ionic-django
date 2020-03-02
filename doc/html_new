@@ -1,0 +1,1121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Новая задача - Отдел Технической поддержки Wezom | Worksection</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta http-equiv="Content-Language" content="ru" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <meta name="apple-mobile-web-app-title" content="Worksection">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-48x48.png"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="114x114"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon-ipad.png" sizes="152x152">
+  <link rel="apple-touch-icon" href="/apple-touch-icon-iphone-retina.png" sizes="180x180">
+  <link rel="apple-touch-icon" href="/apple-touch-icon-ipad-retina.png" sizes="167x167">
+  <link rel="manifest" href="/manifest.json">
+  <!-- link rel="manifest" href="manifest.webmanifest"-->
+  <meta name="application-name" content="Worksection">
+  <link href="/rss/a642657c8294d976504d268d991e2c2c/" title="RSS 2.0 Обзор активности wezom" type="application/rss+xml" rel="alternate"/>
+    <link href="/project/166584/rss/a642657c8294d976504d268d991e2c2c/" title="RSS 2.0 Обзор активности в проекте Отдел Технической поддержки Wezom" type="application/rss+xml" rel="alternate"/>
+    
+  <meta name="theme-color" content="#ffffff">
+  
+<link rel="stylesheet" type="text/css" href="/template/min/common.cache520.css" />
+<link rel="stylesheet" type="text/css" href="/template/min/common.colors.cache1.css" />
+<script type="text/javascript" src="/include/js/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="/include/js/thickbox.min.cache520.js"></script>
+<script type="text/javascript" src="/include/js/date/picker.min.cache518.js"></script>
+<script type="text/javascript" src="/include/js/date/i18n/ui.datepicker-ru.cache518.js"></script>
+<script src="/template/min/common.cache521.js" type="text/javascript"></script>
+<script src="/template/min/common.time.cache518.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/template/min/adaptive.cache518.css" /></head>
+<body class="bodywide desktop sound_on whotkeys bd_lang1 bd_nomenu" data-win-pref="ws2216">
+<div id="main_pre"></div>
+<div id="main">
+    <a name="top"></a>
+    <!--div id="header_line"></div-->
+  <div id="header_print">
+    <span>wezom</span>Отдел Технической поддержки Wezom  </div>
+  <div id="header_normal">
+  <div id="header_pre"></div>
+    <div id="header" class="header">
+    <a data-anchor="#top" class="top_" id="anch_top"></a><a data-anchor="#foot" class="foot_" id="anch_foot"></a>
+        <div class="name_center">
+      <a class="back" href="/project/166584/priority/"><span class="ico ico_l ico_back_to"></span><font id="back_title"><span class="a1">Назад</span><span class="a2">Назад без сохранения</span></font></a>
+            <div class="in2">
+                <span class="tab act">
+          <span id="draft_del_"><span class="ico ico_l ico_task_single"></span>Новая задача</span>
+          <span id="draft_del"><a href="/project/166584/new/?action=delete_draft&mda=411795811a1124aba63aeba8f856e4c9" class="ico ico_trash" data-options="right parent2" data-title="Удалить черновик"></a> <font class="w480">Черновик задачи</font><font class="wo480">Черновик</font></span>
+        </span>
+                <a href="/project/166584/new/?action=mass&mda=b857a7c3ac4aa45387a35ef91f2acc41&return_to=%2Fproject%2F166584%2Fpriority%2F" class="tab"><span class="ico ico_l ico_task_many"></span><font class="w900">Группа задач</font><font class="wo900">Группа</font></a>
+      </div>
+          </div>
+        
+    <div id="dropaccountmenu" class="dropmenu dropmenu_tp5" style="display:none" data-select="a:not(.ico)">
+      <div class="drophead"><span class="esc esc_nm button button_sm button_trans" onclick="drophide()">esc</span><span class="ico ico_r ico_esc" onclick="drophide()"></span>
+      <a href="/" class="ico ico_l ico_account"></a>
+      <b>Ваш аккаунт</b>
+      </div>
+            <div>
+            <a href="/overview/"><span class="qkey">&#8984;+alt+P</span>Проекты</a>
+      <a href="/priority/"><span class="qkey">&#8984;+alt+T</span>Задачи</a>
+            <a href="/report/general/" class="w768"><span class="qkey">&#8984;+alt+R</span>Отчёты</a>
+            <a href="/calendar/" class="w768"><span class="qkey">&#8984;+alt+С</span>Календарь</a>
+            <a href="/users/"><span class="qkey">&#8984;+alt+U</span>Люди</a>
+            </div>
+    </div>
+    <div id="dropMYmenu" class="dropmenu2" style="display:none"></div>
+        <div id="hmenu" class="hmenu">
+      <a class="ico ico_esc" onclick="mymenu_hide(); return false">&nbsp;</a>
+            <a id="dropMY" class="hmenu_ms" onclick="if ($(this).hasClass('over')) return false; _my_search=''; mymenu_load('/ajax/?action=my_search&mda=7ba1db5e7103222857c8d859fb379ded&id_project=166584&search=' + encodeURIComponent($('#search .sinp, #search .sinp2').val()), function() { wsinit(); mymenu_load_(); }, true); dropmenu2(this); this.blur(); return false"></a>
+            <a id="dropMY" class="hmenu_me hmenu_only wico" onclick="if ($(this).hasClass('over')) return false; set_events_read(true); mymenu_load('/ajax/?action=my_events&mda=7ba1db5e7103222857c8d859fb379ded', function() { wsinit(); mymenu_load_(); }); dropmenu2(this); this.blur(); return false"><span class="ico ico_svg30 ico_event data-title-l" data-title-old="События">&nbsp;</span><span id="my_ecnt"></span></a>
+            <a id="dropMY" class="hmenu_mp hmenu_only dropMP2 txt data-title-bl" onclick="if ($(this).hasClass('over')) return false; mymenu_load('/ajax/?action=my_projects&mda=83f59e604bd679a7007f1b844bb7ab70&id_project=166584&where=task_edit', function() {  wsinit(); mymenu_load_(); if (!is_mobile()) $('#ptbl_in').trigger('focus'); }); dropmenu2(this); this.blur(); return false" data-title-old="Проекты (1)     alt-P"><span class="wo900">Проекты</span><span class="w900">Мои проекты</span><span id="my_pcnt"></span></a>
+            <a id="dropMY" class="hmenu_mt hmenu_only txt data-title-bl" onclick="if ($(this).hasClass('over')) return false; mymenu_load('/ajax/?action=my_tasks&mda=cfb55f05d4153f2b2bec83ef9c78de91&id_project=166584', function() { wsinit(); mymenu_load_(); if (!is_mobile()) $('#tbl_in').trigger('focus');}); dropmenu2(this); this.blur(); return false" data-title-old="Мои задачи (1)     alt-T"><span class="wo900">Задания</span><span class="w900">Мои задания</span><span id="my_tcnt"><span class="cnt_all">1</span></span></a>
+      <a id="dropMY" class="hmenu_mb hmenu_only wico dropFT data-title-l" onclick="if ($(this).hasClass('over')) return false; mymenu_load('/ajax/?action=my_fav_tasks&mda=7ba1db5e7103222857c8d859fb379ded&id_project=166584', function() { wsinit(); if (!is_mobile()) $('#tbl_in').trigger('focus'); mymenu_load_(); }); dropmenu2(this); this.blur(); return false" data-title-old="Закладки"><span class="ico ico_svg30 ico_gfav">&nbsp;</span></a>
+            <a id="dropMY" class="hmenu_pr norm data-title-bl" onclick="if ($(this).hasClass('over')) { mymenu_hide(); return false; } if ($(window).width() <=480 && $('#my_ecnt2').html()) { $('#my_ecnt').removeClass('ico_event'); $('#my_ecnt, #my_ecnt2').html(''); set_title_num(''); mymenu_load('/ajax/?action=my_events&mda=7ba1db5e7103222857c8d859fb379ded', mymenu_load_); } else mymenu_load('/ajax/?action=my_profile&mda=78a64d8234e5d794f3d3ac111e8cbe23&prj=166584', mymenu_load_); dropmenu2(this); this.blur(); return false" data-title-old="Профиль     alt-M"><font>Моё меню</font><img src="/images/user/16891/360829.jpg?1550484689" class="av_sm av_i" border="0" width="24" height="24" alt=""  /><span id="my_ecnt2"></span></a>
+            <a id="dropMY" style="display:none" class="hmenu_hp" onclick="if ($(this).hasClass('over')) return false; mymenu_load('/ajax/?action=help&mda=89de54a0c11cba6fd23160e5a4d1c21d', mymenu_load_); dropmenu2(this); this.blur(); return false"></a>
+    </div> 
+  <div id="dropaddmenu" class="dropmenu" style="display:none">
+  <a href="/project/166584/new/" class="a1st quick_ta"><span class="ico ico_r ico_task_add"></span><span class="a1">Новая задача</span><span class="a2"></span></a>
+  </div>
+    </div>
+</div>
+<a onclick="tb_show($(this).attr('data-modal-title'), '/ajax/?action=bookmark_ajax&mda=b1cb85fbe29a6629d4d1f41f9ea65ca4&bookurl=' +encodeURIComponent($('#def_link' + (/report/.test(document.location.pathname) ? 2 : '')).length ? $('#def_link' + (/report/.test(document.location.pathname) ? 2 : '')).val() : document.location.pathname)+'&bookname=' + encodeURIComponent(document.title.replace(/ \| Worksection/i, '').replace(/^\(\d+\)\s*/, '')) + '&height=auto&width=460', 'favs'); return false" data-modal-title="Сохранить в закладки как..." class="quick_bm" class="quick_bm_"></a>
+    <input type="hidden" id="def_page" value="/project/166584" />
+  <div id="content">
+      <div id="content_both">
+    <script type="text/javascript"> 
+_editor_lang = 'ru';
+_editor_cache = '518';
+var _allow_todo = 1;
+</script>
+
+<script type="text/javascript" src="/include/htmlarea/htmlarea_sm.min.cache518.js"></script><script type="text/javascript">  
+  var editors = {'descr' : null};
+  for (i in editors) { _editor_start[i] = false; _editor_gener[i] = false; }
+</script>
+<script language="javascript" type="text/javascript">
+check_save = {'name' : 'Задача'};
+</script>
+<form action="" method="post" enctype="multipart/form-data" name="frm" onsubmit="exitEditors(); if ($(this).find('.loadingimg').length) { alert('Загрузка файлов еще не завершена. Подождите немного'); return false; } return checkForm(this, check_save, 'Пожалуйста заполните обязательные поля')" accept-charset="utf-8">
+<script language="javascript" type="text/javascript">
+window.holidays = {};
+window.extraday = {};
+window.is_wsat = 0;
+</script>
+<input type="hidden" name="return_to" value="/project/166584/priority/" />
+<input type="hidden" name="single" value="1" />
+<input type="hidden" name="id_comment_copy" value="" /><div class="dataadd_out">
+<div class="dataadd">
+  <div class="tree">
+    <span class="ico ico_project2">&nbsp;</span>
+    <a onclick="go_nohistory=true;set_project_path='/new/?return_to=%2Fproject%2F166584%2Fpriority%2F'; $('#hmenu .dropMP2').trigger('click'); return false" class="p" data-title="Создать в проекте...">Отдел Технической поддержки Wezom</a>
+    <u></u><i>/</i> 
+    <span class="p">Задача</span> &nbsp; <a data-modal="/project/166584/ajax/?action=newtask_task_to&mda=e19751f484430cc85695fbe0a0329009&width=500&height=auto" data-title="Создать в задаче..." class="button button_sm button_white thickbox">подзадача</a>
+  </div>
+    <div class="dataadd_ dataadd_sp">
+    <!--div class="draft_place">
+Новая задача  <a href="/project/166584/new/?action=delete_draft&mda=411795811a1124aba63aeba8f856e4c9" class="ico ico_delete2" data-title="Удалить черновик" id="draft_del">&nbsp;</a>
+   
+  <a href="/project/166584/new/?action=mass&mda=b857a7c3ac4aa45387a35ef91f2acc41&return_to=%2Fproject%2F166584%2Fpriority%2F" class="task_many button button_sm button_trans"><span class="ico ico_l ico_task_many"></span><font class="w480">добавить группу задач</font><font class="wo480">добавить группу</font></a>  </div-->
+    <a onclick="if(document.frm.onsubmit()) document.frm.submit(); return false" class="button button_big button_task button_r"><span class="ico ico_r ico_newtask"></span><span class="ico ico_r ico_newtask1"></span><span class="ico ico_r ico_newtask2"></span>Создать задачу</a>
+  <div class="proj_name">
+  <input class="input inputmain" type="text" name="name" id="ta_name" data-param="on" placeholder="Что нужно сделать?" onfocus="$(this).next().hide();" onblur="$(this).next().show();" value="" size="40" />
+    <span class="label">Приоритет</span>
+    <a onclick="priority_select(this, true); return false" rel="#important" class="prior_big prior1">1</a>
+    <input type="hidden" name="important" id="important" value="1" /></span>
+  </div>
+  </div>
+
+
+    <div class="dataadd2">
+  <div class="user_to user_to_act">
+    <i class="help help_l help_big">(i)<font><u>Ответственный</u> является исполнителем задачи, может изменять её метки и&nbsp;статусы, видит в&nbsp;списке &laquo;Мои задания&raquo; (alt+T) и&nbsp;получает уведомления о&nbsp;сроках в&nbsp;Дайджест по&nbsp;утрам. Также автоматически предлагается в&nbsp;подписчики данной задачи.<br><br><b>Опционально</b><br>Может закрывать задачи и&nbsp;передавать ответственность другим сотрудникам, только если это разрешено настройками проекта.<br><br><b>Советы</b><br>&bull; если задача не&nbsp;требуют ответственного, установите: <u>Без ответственного</u><br>&bull; если вы&nbsp;не&nbsp;знаете кто конкретно будет ответственным, установите: <u>Любой сотрудник</u><br> (тогда любой член команды, включая Гостей, сможет самостоятельно взять задачу на&nbsp;себя)</font></i>
+    <a class="ico ico_r ico_delete2" onclick="resp_delete(this); return false" data-title="Удалить"></a>
+    <span class="ico ico_r ico_to"></span>
+    <span class="norm">Ответственный</span>
+        <a class="inline fix_width quick_ut" id="dropresp" onclick="dropmenu(this, 'parent width', '', 'Ответственный'); if (!is_mobile()) $('#pbl_in').focus(); return false"><b><img src="/images/user/16891/101419.jpg?1446735063" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Цолин Борис</b></a>
+        <input type="hidden" name="id_user_to" id="id_user_to" value="101419" />  
+  </div>
+    <div class="labels labels_act">
+    <a class="ico ico_r ico_delete2" onclick="if ($(this).parent().hasClass('labels_act')) { $(this).parent().removeClass('labels_act'); $('#ttg0').val('').next().html('&lt;b&gt;Без статуса и меток&lt;/b&gt;'); $('#tag_select input').attr('checked', false).parent().removeClass('act').parent().removeClass('pre_act'); } return false" data-title="Удалить"></a>
+     <span class="norm">Метки</span>
+     <span class="ico ico_r ico_labels2 "></span>
+    <a class="inline fix_width" id="droplabel" onclick="dropmenu(this, 'parent width'); return false">
+      <input type="hidden" name="tags" value="149135" id="ttg0" data-empty="Без статуса и меток" /><span class="tags">        <span class="tag18 hid-1">новый</span>
+        &nbsp;</span></a>      
+  </div>
+  <div id="droplabelmenu" class="dropmenu dropfilt" style="display:none">
+    <div class="drophead">
+  <span class="esc button button_sm" onclick="drophide()">OK</span>
+  <div class="quick_search"><input type="text" onkeyup="tag_quick_search(this, '#tag_select', {group: '.label_group_:not(.invis) .label_group', item: '.item:not(.off_hid):not(.off_hid2)'})" placeholder="Найти" class="input" /></div>
+</div>
+<div id="tag_select" class="tag_select tb_scroll_zone key_zone" data-select="label" data-columns="yes">
+  <div class="label_group_ label_group_st">
+  <div class="label_group">
+        <font data-title="Рабочий процесс проекта: %YCтатусыY%" data-options="right">Статус</font>
+      </div>
+  <div class="label_container label_container1 label_single">
+      <div class="item pre_act"><label class="tag18 hid-1 act"><span class="tg tag18 hid-1"></span><font>новый</font><input type="checkbox" value="149135" checked onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag19 hid-1"><span class="tg tag19 hid-1"></span><font>открыт заново</font><input type="checkbox" value="149136" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag4 hid-1"><span class="tg tag4 hid-1"></span><font>в процессе</font><input type="checkbox" value="149137" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag21 hid-1"><span class="tg tag21 hid-1"></span><font>выполнен</font><input type="checkbox" value="149138" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag35 hid-1"><span class="tg tag35 hid-1"></span><font>закрыт</font><input type="checkbox" value="149140" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag36 hid-1"><span class="tg tag36 hid-1"></span><font>невозможно воспроизвести</font><input type="checkbox" value="149141" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag26 hid-1"><span class="tg tag26 hid-1"></span><font>дубликат</font><input type="checkbox" value="149142" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag32 hid-1"><span class="tg tag32 hid-1"></span><font>не баг</font><input type="checkbox" value="149144" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid-1"><span class="tg tag28 hid-1"></span><font>баг</font><input type="checkbox" value="149145" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag34 hid-1"><span class="tg tag34 hid-1"></span><font>фича</font><input type="checkbox" value="149146" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag31 hid-1"><span class="tg tag31 hid-1"></span><font>тестируется</font><input type="checkbox" value="207184" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag35 hid-1"><span class="tg tag35 hid-1"></span><font>ожидание правок</font><input type="checkbox" value="343396" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+    <div class="clear"></div>
+  </div>
+  </div>
+  <div class="label_group_">
+  <div class="label_group">
+        <font data-title="Набор меток" data-options="right">Общие метки</font>
+      </div>
+  <div class="label_container label_container">
+      <div class="item"><label class="tag10 hid0"><span class="tg tag10 hid0"></span><font>Дизайн</font><input type="checkbox" value="120135" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag11 hid0"><span class="tg tag11 hid0"></span><font>Документи</font><input type="checkbox" value="120136" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag21 hid0"><span class="tg tag21 hid0"></span><font>Програмування</font><input type="checkbox" value="120134" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag19 hid0"><span class="tg tag19 hid0"></span><font>Верстка</font><input type="checkbox" value="132435" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag18 hid0"><span class="tg tag18 hid0"></span><font>SEO</font><input type="checkbox" value="132436" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag35 hid0"><span class="tg tag35 hid0"></span><font>Проектирование</font><input type="checkbox" value="132437" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag22 hid0"><span class="tg tag22 hid0"></span><font>техподдержка</font><input type="checkbox" value="135267" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid0"><span class="tg tag28 hid0"></span><font>SandBox</font><input type="checkbox" value="136599" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag23 hid0"><span class="tg tag23 hid0"></span><font>наполнение</font><input type="checkbox" value="149139" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid0"><span class="tg tag28 hid0"></span><font>тестирование</font><input type="checkbox" value="150724" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag32 hid0"><span class="tg tag32 hid0"></span><font>контекст</font><input type="checkbox" value="152241" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag35 hid0"><span class="tg tag35 hid0"></span><font>3D</font><input type="checkbox" value="152289" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag30 hid0"><span class="tg tag30 hid0"></span><font>видео</font><input type="checkbox" value="160672" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag24 hid0"><span class="tg tag24 hid0"></span><font>команда 36</font><input type="checkbox" value="176629" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid0"><span class="tg tag28 hid0"></span><font>СОБСТВЕННЫЙ ПРОЕКТ</font><input type="checkbox" value="178872" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid0"><span class="tg tag28 hid0"></span><font>оценка работ по времени</font><input type="checkbox" value="197816" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag0 hid0"><span class="tg tag0 hid0"></span><font>СММ</font><input type="checkbox" value="206075" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid0"><span class="tg tag28 hid0"></span><font>оплачено</font><input type="checkbox" value="572624" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag36 hid0"><span class="tg tag36 hid0"></span><font>в счет SEO</font><input type="checkbox" value="572625" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag37 hid0"><span class="tg tag37 hid0"></span><font>test</font><input type="checkbox" value="598935" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid0"><span class="tg tag1 hid0"></span><font>Доступы</font><input type="checkbox" value="619393" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag16 hid0"><span class="tg tag16 hid0"></span><font>Perfomance</font><input type="checkbox" value="625887" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag16 hid0"><span class="tg tag16 hid0"></span><font>Performance</font><input type="checkbox" value="625888" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag43 hid0"><span class="tg tag43 hid0"></span><font>Выполнено!</font><input type="checkbox" value="630007" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag34 hid0"><span class="tg tag34 hid0"></span><font>Дополнительные материалы</font><input type="checkbox" value="630471" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag47 hid0"><span class="tg tag47 hid0"></span><font>Обсуждение</font><input type="checkbox" value="640007" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag41 hid0"><span class="tg tag41 hid0"></span><font>Mobile</font><input type="checkbox" value="640018" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag37 hid0"><span class="tg tag37 hid0"></span><font>Sprint 1</font><input type="checkbox" value="640046" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag30 hid0"><span class="tg tag30 hid0"></span><font>Sprint 2</font><input type="checkbox" value="640103" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag41 hid0"><span class="tg tag41 hid0"></span><font>маркетинг</font><input type="checkbox" value="640139" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag47 hid0"><span class="tg tag47 hid0"></span><font>Можно заливать на основу</font><input type="checkbox" value="640355" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag47 hid0"><span class="tg tag47 hid0"></span><font>Готово</font><input type="checkbox" value="640358" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag34 hid0"><span class="tg tag34 hid0"></span><font>на паузе</font><input type="checkbox" value="640361" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag45 hid0"><span class="tg tag45 hid0"></span><font>Окончен</font><input type="checkbox" value="640459" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+    <div class="clear"></div>
+  </div>
+  </div>
+  <div class="label_group_">
+  <div class="label_group">
+    <span class="ico ico_lock2" data-options="right" data-title="Видны только вашей команде"></span>     <font data-title="Набор меток" data-options="right">Внутренние</font>
+      </div>
+  <div class="label_container label_container">
+      <div class="item"><label class="tag16 hid1"><span class="tg tag16 hid1"></span><font>утверждение</font><input type="checkbox" value="120139" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag14 hid1"><span class="tg tag14 hid1"></span><font>тестирование</font><input type="checkbox" value="120138" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag17 hid1"><span class="tg tag17 hid1"></span><font>в работе</font><input type="checkbox" value="120137" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag3 hid1"><span class="tg tag3 hid1"></span><font>копирайтинг</font><input type="checkbox" value="137641" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag22 hid1"><span class="tg tag22 hid1"></span><font>контекст</font><input type="checkbox" value="137646" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag14 hid1"><span class="tg tag14 hid1"></span><font>ссылки</font><input type="checkbox" value="137647" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid1"><span class="tg tag1 hid1"></span><font>заявка</font><input type="checkbox" value="157996" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag13 hid1"><span class="tg tag13 hid1"></span><font>бриф</font><input type="checkbox" value="157997" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag36 hid1"><span class="tg tag36 hid1"></span><font>заключение договора</font><input type="checkbox" value="160668" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag36 hid1"><span class="tg tag36 hid1"></span><font>отказ</font><input type="checkbox" value="160669" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag0 hid1"><span class="tg tag0 hid1"></span><font>нет связи</font><input type="checkbox" value="160670" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid1"><span class="tg tag1 hid1"></span><font>РАЗРАБОТКА</font><input type="checkbox" value="284508" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag13 hid1"><span class="tg tag13 hid1"></span><font>ПРОДВИЖЕНИЕ</font><input type="checkbox" value="284509" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid1"><span class="tg tag1 hid1"></span><font>ДРУГОЕ</font><input type="checkbox" value="284532" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid1"><span class="tg tag1 hid1"></span><font>Не наш клиент!!!</font><input type="checkbox" value="284533" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag4 hid1"><span class="tg tag4 hid1"></span><font>GOOGLE ADWORDS</font><input type="checkbox" value="358912" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag4 hid1"><span class="tg tag4 hid1"></span><font>YANDEX DIRECT</font><input type="checkbox" value="358913" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag35 hid1"><span class="tg tag35 hid1"></span><font>JivoSite</font><input type="checkbox" value="360167" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag28 hid1"><span class="tg tag28 hid1"></span><font>ОБУЧЕНИЕ!</font><input type="checkbox" value="386129" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag41 hid1"><span class="tg tag41 hid1"></span><font>Домашка!</font><input type="checkbox" value="611548" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag43 hid1"><span class="tg tag43 hid1"></span><font>согласовано</font><input type="checkbox" value="628188" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag30 hid1"><span class="tg tag30 hid1"></span><font>Можно привлечь Сашу</font><input type="checkbox" value="640049" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag30 hid1"><span class="tg tag30 hid1"></span><font>Возможно перенести на 2sp</font><input type="checkbox" value="640094" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag1 hid1"><span class="tg tag1 hid1"></span><font>в счет РРС</font><input type="checkbox" value="640145" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+  <div class="item"><label class="tag40 hid1"><span class="tg tag40 hid1"></span><font>ASAP</font><input type="checkbox" value="640187" onclick="resp_force(this.checked ? 0 : 0)" /></label></div>
+    <div class="clear"></div>
+  </div>
+  </div>
+</div>
+  </div>
+  <div class="clear"></div>
+  </div>
+  
+
+  <div class="terms">
+    <div class="top_tabs">
+      <a rel="0" id="top_tab0" onclick="term_tab(this); return false" class="act"><i class="ico ico_l ico_cals_no"></i></a>
+      <a rel="1" id="top_tab1" onclick="term_tab(this); return false"><i class="ico ico_l ico_cals_f"></i>Срок</a>
+      <a rel="2" id="top_tab2" onclick="term_tab(this); return false"><i class="ico ico_l ico_cals_sf"></i>Старт-Финиш</a>
+    </div>
+    <div class="in">
+      <a class="quick_ed" onclick="if ($('#top_tab0').hasClass('act')) $('#drop_ddef').trigger('click'); else term_tab($('.top_tabs .act').get(0)); return false"></a>
+      <div class="tab" id="term_tab0">
+        <a class="inline dropr" id="drop_ddef" onclick="dropmenu(this, 'left'); return false">Задание без срока</a>
+        <div id="drop_ddefmenu" class="dropmenu" style="display:none">
+                    <a onclick="term_pre('25.02.2019', '20:00', ' в '); drophide(); return false" class="wb"><b>Сегодня</b> до конца дня 20:00</a>
+                    <a onclick="term_pre('26.02.2019', '12:00', ' в '); drophide(); return false" class="wb"><b>Завтра</b> до обеда 12:00</a>
+          <a onclick="term_pre('26.02.2019', '20:00', ' в '); drophide(); return false" class="wb"><b>Завтра</b> до конца дня 20:00</a>
+                    <div class="line"></div>
+          <a onclick="term_pre('01.03.2019'); drophide(); return false" class="wb"><b>5 рабочих дней</b> Пт. 1 Мар</a>
+          <a onclick="term_pre('08.03.2019'); drophide(); return false" class="wb"><b>10 рабочих дней</b> Пт. 8 Мар</a>
+          <a onclick="term_pre('25.03.2019'); drophide(); return false" class="wb"><b>Месяц</b> Пн. 25 Мар</a>
+          <div class="line"></div>
+          <a data-modal="/ajax/?action=set_end_date&mda=7099dd3e63a1f8789d1b20a49836d45c&is_term=1&width=450&height=auto" rel="add_params" class="thickbox" id="modal_term1" onclick="drophide();" data-modal-title="Новая дата завершения">Любая другая дата...</a>
+          <a data-modal="/ajax/?action=set_end_date&mda=7099dd3e63a1f8789d1b20a49836d45c&is_term=2&width=450&height=auto" rel="add_params" class="thickbox" id="modal_term2" onclick="drophide();" data-modal-title="Новая дата завершения">Диапазон Старт-Финиш...</a>
+        </div>
+      </div>
+            <div class="tab" id="term_tab1" style="display:none">
+        <div class="len_pre len_pre2">
+          <small>Раб. день</small>
+          <span class="datelen"><input type="text" name="datelen2" id="ed_datelen2" value="1" placeholder="X" class="input normholder" size="3" maxlength="3" /></span>
+        </div>
+        <a data-modal="/ajax/?action=set_end_date&mda=7099dd3e63a1f8789d1b20a49836d45c&is_term=1&width=450&height=auto" rel="add_params" class="thickbox inline end"><font class="w360">Понедельник </font><b>25 февраля</b></a>
+      </div>
+            <div class="tab" id="term_tab2" style="display:none">
+        <div class="start_pre">
+          <small>Старт</small>
+          <a data-modal="/ajax/?action=set_end_date&mda=7099dd3e63a1f8789d1b20a49836d45c&is_term=2&width=450&height=auto" rel="add_params" class="thickbox inline start"><font class="w360">Пн </font><b>25 Фев</b></a>
+        </div>
+        <div class="len_pre">
+          <small>Раб. день</small>
+          <span class="datelen"><input type="text" name="datelen" id="ed_datelen" value="1" placeholder="X" class="input normholder" size="3" maxlength="3" /></span>
+        </div>
+        <div class="end_pre">
+          <small>Финиш</small>
+          <a data-modal="/ajax/?action=set_end_date&mda=7099dd3e63a1f8789d1b20a49836d45c&is_term=2&width=450&height=auto" rel="add_params" class="thickbox inline end"><font class="w360">Пн </font><b>25 Фев</b></a>
+        </div>
+      </div>
+      <input type="hidden" id="datelen_we" name="datelen_we" value="1" />
+      <div id="terms_inputs">
+        <input type="hidden" name="relate_id" value="0" data-param="on" />
+        <input type="hidden" name="id_project" value="166584" data-param="on" />
+        <input type="hidden" id="ed_dt_term" name="is_term" value="0" />
+        <input type="hidden" id="ed_datestart" name="datestart" value="25.02.2019" data-param="on" />
+        <input type="hidden" id="ed_datestart_def" name="datestart_def" value="25.02.2019" data-param="on" />
+        <input type="hidden" id="ed_dateend" name="dateend" value="25.02.2019" data-param="on" />
+        <input type="hidden" id="ed_timeend" name="timeend" value="" data-param="on" data-txt="" />
+
+        <input type="hidden" id="ed_rep_ison" name="is_repeat" value="0" data-param="on" /> 
+        <input type="hidden" id="ed_rep_isupd" name="is_repupd" value="1" data-param="on" /> 
+        <input type="hidden" id="ed_rep_type" name="rep_type" value="0" data-param="on" /> 
+        <input type="hidden" id="ed_rep_num" name="rep_num" value="1" data-param="on" /> 
+        <input type="hidden" id="ed_rep_numrepeat" name="rep_numrepeat" value="1" data-param="on" /> 
+        <input type="hidden" id="ed_rep_wday" name="rep_wday" value="4" data-param="on" />
+        <input type="hidden" id="ed_rep_mday" name="rep_mday" value="1" data-param="on" />
+        <input type="hidden" id="ed_rep_mday" name="rep_day" value="0" data-param="on" />
+
+        <input type="hidden" id="ed_rep_nocopy" name="is_nocopy" value="0" data-param="on" />
+        <input type="hidden" id="ed_dt_wsub" name="is_subtask" value="0" data-param="on" />
+        <input type="hidden" id="ed_rep_name" name="rep_name" value="" data-param="on" />
+        <input type="hidden" id="ed_sv_relate" name="sv_relate" value="" data-param="on" />
+        <input type="hidden" id="ed_sn_relate" name="sn_relate" value="" data-param="on" />        
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+    <div class="limit">
+    <div class="top">
+    <span class="ico ico_r ico_priv data-title-b"></span>
+    <h4>План <i class="help">(i)<font>Предполагаемые затраты<br>Не видны команде клиента и гостям</font></i></h4></div>
+    <div class="in">
+        <div class="time time_wide" onclick="$(this).find('input').focus();">
+            <div class="arr"><span class="ico ico_time"></span></div>
+      <div class="time_">
+        <input class="input"  type="text" name="max_time" maxlength="6" onfocus="$(this).parent().parent().addClass('time_act');" onblur="if(this.value) $(this).parent().parent().addClass('time_act'); else $(this).parent().parent().removeClass('time_act');" value="" size="5" />
+        <label>часов</label>
+      </div>
+          </div>
+        </div>
+  </div>
+      <div class="clear"></div>
+  <div class="dataadd_ dataadd_sp">
+    <div class="texrarea">
+  <textarea name="descr" id="ta_descr" rows="" cols="" wrap="virtual" class="resizable" data-save="Сохранить черновик" data-saved="Сохранено"></textarea>
+  </div>
+    <div class="file_space"><div class="file_space_">
+        <div id="drop_gdocmenu" class="dropmenu_in" style="display:none">
+      <a class="file file_pptx" href="/project/0/files/0/edit/?google_create=pptx" onclick="drophide();" target="_blank">
+        <span class="ico ico_r ico_pptx"></span>
+        Презентация      </a>
+      <a class="file file_xlsx" href="/project/0/files/0/edit/?google_create=xlsx" onclick="drophide();" target="_blank">
+        <span class="ico ico_r ico_xlsx"></span>
+        Таблица      </a>
+      <a class="file file_docx" href="/project/0/files/0/edit/?google_create=docx" onclick="drophide();" target="_blank">
+        <span class="ico ico_r ico_docx"></span>
+        Документ      </a>
+    </div>
+        <div id="all_attach" style="display:none">
+        <div class="attachmulty" style="display:none"><input type="file" name="ufile[]" multiple="true" value="" class="fi_att" size="50" /> <a onclick="$(this).parent().remove(); return false" data-title="отменить" class="ico ico_delete2"></a></div></div>
+    <div class="file_links">
+      <span>
+        <a class="div norm data-title-l3" onclick="dropmenu(this, 'static'); return false" id="drop_gdoc" data-title="Создать документ"><span class="ico ico_r ico_newdoc"></span></a>              </span>
+      <div class="attachnew" id="attach_new">
+        <span class="ico ico_attach"></span> <a onclick="add_attach(); return false" class="inline"><span class="w480">Вложить новый файл</span><span class="wo480">Файл</span></a> &nbsp;или&nbsp; <a data-modal="/project/166584/ajax/?action=choosefile&mda=9e505db67c40963b558ea69974347b67&width=930&height=auto2" class="inline thickbox" data-modal-title="Загруженные ранее файлы"><span class="w480">загруженный ранее</span><span class="wo480">старый</span></a>  <span class="droplink">&nbsp;или&nbsp; перетащите файлы сюда</span>
+      </div>
+    </div> 
+    <input type="hidden" name="presave" value="0" />
+      <div id="is_file_edit" class="switch_block sw_pre" style="display:none">
+        <a class="sw data-title-lg" onclick="$(this).attr('data-title', $(this).parent().hasClass('sw_act') ? 'включить' : 'отключить').parent().toggleClass('sw_act').find('input').val($(this).parent().hasClass('sw_act') ? 1 : 0); return false" data-title="включить"><span></span></a>
+        <span class="w1024">Редактирование документов с помощью Google Drive</span><span class="wo1024">Редактирование документов</span>
+        <input type="hidden" name="is_file_edit" value="0" />
+      </div>
+    </div>
+    </div>
+      <div class="drop_zone_body" id="dz-left">
+      <div class="drop_zone_in">
+        <div class="drop_zone_move"><span class="ico_big"></span>&gt; перетащите файлы сюда &lt;</div>
+        <div class="drop_zone_ready"><span class="ico_big"></span>отпускайте</div>
+      </div>
+      <div class="drop_zone"></div>
+    </div>
+  </div>
+    <input type="hidden" name="limit" value="1487936443|0|0|1|1|0" data-param="on" />
+    <div id="member_pre" class="member_list_pre">
+        <div class="head">
+            <a class="div inline2 dropr" id="drop_subscr" onclick="dropmenu(this, 'left'); return false">
+                <span class="ico ico_l ico_subsbig ico_subsbig_act"></span>
+                <span class="inline">Подписчики</span> <span id="mailing_cnt" class="cnt">&nbsp;</span>
+      </a>
+      <a class="div inline2 dropr" id="drop_hidden" onclick="dropmenu(this, 'left'); return false">
+        <span class="ico ico_l ico_privbig" data-title="Ограничить видимость"></span>
+        <span class="inline">Видят</span> <span id="member_cnt" class="cnt">&nbsp;</span>
+      </a>
+    </div>
+    <div id="drop_hiddenmenu" class="dropmenu dropmenu_tp1 dropz" style="display:none">
+      <div class="drophead"><span class="ico ico_l ico_privbig"></span></div>      
+      <div class="line line1st"></div>
+            <a onclick="member_hidden(this, 0); drophide(); return false" class="onlyhidden">Видят все</a>
+      <div class="line onlyhidden"></div>
+            <a onclick="member_hidden(this, 5); drophide(); return false">Только мой отдел</a>
+            <a onclick="member_hidden(this, 8); drophide(); return false">Только я и ответственный</a>
+      <div class="line nocustom"></div>
+      <a onclick="member_hidden(this, 1); $('.nocustom').hide(); drophide(); return false" class="nocustom">Произвольный круг людей ...</a>
+          </div>
+    <div id="drop_subscrmenu" class="dropmenu dropmenu_tp1 dropz" style="display:none">
+      <div class="drophead"><span class="ico ico_l ico_subsbig"></span></div>      
+      <div class="line line1st"></div>
+            <a onclick="member_subscribe(this, 5); drophide(); return false">Подписать отдел</a>
+            <div class="line"></div>
+            <a onclick="member_subscribe(this, 1); drophide(); return false">Подписать всех</a>
+      <a onclick="member_subscribe(this, 0); drophide(); return false">Отписать всех</a>
+      <div class="line nocustom"></div>
+      <a onclick="$('#member_ava').hide(); $('#member_pre .head, #member').show(); $('.nocustom').hide(); drophide(); return false" class="nocustom">Произвольный круг людей ...</a>
+    </div>
+    <div class="subs_list" id="member_ava">
+      <div class="r"><a onclick="$('#member_ava').hide(); $('#member_pre .head, #member').show(); return false;"><span class="w480">показать имена</span><span class="wo480">больше</span></a></div>
+            <span class="place_subs" style="display:none" data-parent-title=""><a onclick="member_subscribe(this, 0);" class="ico ico_l ico_subs_list" data-title="Автоматически получают уведомления"></a><span class="ico ico_user_no"></span><span class="in"><span class="ava ava_subs it_me it_from it_my it_comp it_dept it_subs" rel="360829" data-title="Жариков Дмитрий"><img src="/images/user/16891/360829.jpg?1550484689" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava ava_subs it_to it_mng it_my it_comp it_dept it_subs" rel="101419" data-title="Цолин Борис"><img src="/images/user/16891/101419.jpg?1446735063" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span></span></span><span class="place_vis" style="display:none" data-parent-title=" (не подписан)"><span class="in"><span class="ava it_my it_comp" rel="89345" data-title="Андрейченко Дмитрий"><img src="/images/user/16891/89345.jpg?1478709894" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="162512" data-title="Бабенко Марина"><img src="/images/user/16891/162512.jpg?1468610215" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="326849" data-title="Белый Артем"><img src="/images/user/16891/326849.jpg?1519141741" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360170" data-title="Божет Евгений"><img src="/images/user/16891/360170.jpg?1540385265" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="328582" data-title="Варламов Алексей"><img src="/images/user/16891/328582.jpg?1522763075" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360476" data-title="Волчановский Александр"><img src="/images/user/16891/360476.jpg?1543824037" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="85894" data-title="Гузенко Сергей"><img src="/images/user/16891/85894.jpg?1440681195" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="125605" data-title="Докучаев Владислав"><img src="/images/user/16891/125605.jpg?1483455720" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="91331" data-title="Жариков Дмитрий"><img src="/images/user/16891/91331.jpg?1441802309" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="96310" data-title="Завацкий Денис"><img src="/images/user/16891/96310.jpg?1426755396" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="86465" data-title="Ильяной Артем"><img src="/images/user/16891/86465.jpg?1415105326" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360254" data-title="Крамаренко Алексей"><img src="/images/user/16891/360254.jpg?1547469730" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="161534" data-title="Крутов Петр"><img src="/images/user/16891/161534.jpg?1467034580" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="89562" data-title="Линник Юрий"><img src="/images/user/16891/89562.jpg?1415212078" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="89586" data-title="Лисовой Владислав"><img src="/images/user/16891/89586.jpg?1415001629" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360040" data-title="Матяш Андрей"><img src="/images/user/16891/360040.jpg?1538129820" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="348872" data-title="Островерх Константин"><img src="/images/user/16891/348872.jpg?1533016119" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="193491" data-title="Пересунько Алена"><img src="/images/user/16891/193491.jpg?1495103388" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="195848" data-title="Пожидаев Евгений"><img src="/images/user/16891/195848.jpg?1510830979" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="161877" data-title="Приходько Полина"><img src="/images/user/16891/161877.jpg?1504079101" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="86786" data-title="Прус Александр"><img src="/images/user/16891/86786.jpg?1414842299" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360098" data-title="Тур Алексей"><img src="/images/user/16891/360098.jpg?1539094394" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp" rel="342917" data-title="Черненко Владислав"><img src="/images/user/16891/342917.jpg?1528381728" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span><span class="ava it_my it_comp it_dept" rel="360191" data-title="Шестаков Виталий"><img src="/images/user/16891/360191.jpg?1540385202" class="av_sm av_i" border="0" width="24" height="24" alt=""  /></span></span></span><span class="place_hid" style="display:none" data-parent-title=" (не увидит)"><span class="ico ico_l ico_priv" data-title="Не увидят данную задачу"></span><span class="in"></span></span>
+    </div>
+    <input type="hidden" name="is_hidden" id="id_ishid" value="0" />
+    <input type="hidden" name="save_invite" id="ids_invite" value="" />
+    <div class="in member_list" id="member" style="display:none">  <div class="group group1st group_my group_comp group_on" id="id_group28396out">     
+    <div class="gtitle">
+            <label class="label_mass"><span class="ico ico_l ico_gpriv"></span><input type="checkbox" name="hidden[]" rel="ghid" id="hid_userg28396" value="-28396" onclick="member_hidden_group(this);" /></label>      
+            <a class="show_subs" onclick="$(this).parent().parent().addClass('group_wsub').find('.sub2 .item_').each(function() { $(this).appendTo($(this).parent().parent().find('.sub[data-sub='+$(this).attr('data-sub')+']')); }); $(this).parent().parent().find('.sub').append('<div class=\'clear\'></div>').parent().find('.sub2').remove(); $(this).parent().parent().find('.sub').not('.waste').show(); return false">показать отделы</a>
+            
+      <a class="gtitle_ inline_fnt" onclick="member_subscribe_group(this);return false" rel="28396" data-title="Подписать команду">
+        <span class="ico ico_l ico_company ico_company_my"></span>
+        <font>wezom</font>
+                <span class="ico ico_act_sm"></span>
+              </a>
+          </div>
+        <div id="id_group28396" class="group_in">
+          <div class="sub2">
+       <div class="item_ itemh" data-sub="5739">
+  <div class="item it_my it_comp" id="it89345" rel="89345">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="89345" />
+    <input type="hidden" rel="sub" name="" value="89345" />
+    <input type="hidden" rel="inv" name="" value="89345" />
+    <img src="/images/user/16891/89345.jpg?1478709894" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Андрейченко Дмитрий</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5584">
+  <div class="item it_my it_comp" id="it162512" rel="162512">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="162512" />
+    <input type="hidden" rel="sub" name="" value="162512" />
+    <input type="hidden" rel="inv" name="" value="162512" />
+    <img src="/images/user/16891/162512.jpg?1468610215" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Бабенко Марина</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it326849" rel="326849">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="326849" />
+    <input type="hidden" rel="sub" name="" value="326849" />
+    <input type="hidden" rel="inv" name="" value="326849" />
+    <img src="/images/user/16891/326849.jpg?1519141741" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Белый Артем</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360170" rel="360170">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360170" />
+    <input type="hidden" rel="sub" name="" value="360170" />
+    <input type="hidden" rel="inv" name="" value="360170" />
+    <img src="/images/user/16891/360170.jpg?1540385265" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Божет Евгений</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="10553">
+  <div class="item it_my it_comp" id="it328582" rel="328582">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="328582" />
+    <input type="hidden" rel="sub" name="" value="328582" />
+    <input type="hidden" rel="inv" name="" value="328582" />
+    <img src="/images/user/16891/328582.jpg?1522763075" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Варламов Алексей</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360476" rel="360476">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360476" />
+    <input type="hidden" rel="sub" name="" value="360476" />
+    <input type="hidden" rel="inv" name="" value="360476" />
+    <img src="/images/user/16891/360476.jpg?1543824037" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Волчановский Александр</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="0">
+  <div class="item it_my it_comp" id="it85894" rel="85894">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="85894" />
+    <input type="hidden" rel="sub" name="" value="85894" />
+    <input type="hidden" rel="inv" name="" value="85894" />
+    <img src="/images/user/16891/85894.jpg?1440681195" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Гузенко Сергей</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="15786">
+  <div class="item it_my it_comp" id="it125605" rel="125605">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="125605" />
+    <input type="hidden" rel="sub" name="" value="125605" />
+    <input type="hidden" rel="inv" name="" value="125605" />
+    <img src="/images/user/16891/125605.jpg?1483455720" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Докучаев Владислав</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_me it_from it_my it_comp it_dept it_subs act" id="it360829" rel="360829">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360829" />
+    <input type="hidden" rel="sub" name="save_user[]" value="360829" />
+    <input type="hidden" rel="inv" name="" value="360829" />
+    <img src="/images/user/16891/360829.jpg?1550484689" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it91331" rel="91331">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="91331" />
+    <input type="hidden" rel="sub" name="" value="91331" />
+    <input type="hidden" rel="inv" name="" value="91331" />
+    <img src="/images/user/16891/91331.jpg?1441802309" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5503">
+  <div class="item it_my it_comp" id="it96310" rel="96310">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="96310" />
+    <input type="hidden" rel="sub" name="" value="96310" />
+    <input type="hidden" rel="inv" name="" value="96310" />
+    <img src="/images/user/16891/96310.jpg?1426755396" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Завацкий Денис</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="0">
+  <div class="item it_my it_comp" id="it86465" rel="86465">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="86465" />
+    <input type="hidden" rel="sub" name="" value="86465" />
+    <input type="hidden" rel="inv" name="" value="86465" />
+    <img src="/images/user/16891/86465.jpg?1415105326" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Ильяной Артем</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360254" rel="360254">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360254" />
+    <input type="hidden" rel="sub" name="" value="360254" />
+    <input type="hidden" rel="inv" name="" value="360254" />
+    <img src="/images/user/16891/360254.jpg?1547469730" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крамаренко Алексей</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it161534" rel="161534">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="161534" />
+    <input type="hidden" rel="sub" name="" value="161534" />
+    <input type="hidden" rel="inv" name="" value="161534" />
+    <img src="/images/user/16891/161534.jpg?1467034580" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крутов Петр</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5516">
+  <div class="item it_my it_comp" id="it89562" rel="89562">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="89562" />
+    <input type="hidden" rel="sub" name="" value="89562" />
+    <input type="hidden" rel="inv" name="" value="89562" />
+    <img src="/images/user/16891/89562.jpg?1415212078" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Линник Юрий</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="15786">
+  <div class="item it_my it_comp" id="it89586" rel="89586">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="89586" />
+    <input type="hidden" rel="sub" name="" value="89586" />
+    <input type="hidden" rel="inv" name="" value="89586" />
+    <img src="/images/user/16891/89586.jpg?1415001629" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Лисовой Владислав</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360040" rel="360040">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360040" />
+    <input type="hidden" rel="sub" name="" value="360040" />
+    <input type="hidden" rel="inv" name="" value="360040" />
+    <img src="/images/user/16891/360040.jpg?1538129820" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Матяш Андрей</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it348872" rel="348872">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="348872" />
+    <input type="hidden" rel="sub" name="" value="348872" />
+    <input type="hidden" rel="inv" name="" value="348872" />
+    <img src="/images/user/16891/348872.jpg?1533016119" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Островерх Константин</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5516">
+  <div class="item it_my it_comp" id="it193491" rel="193491">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="193491" />
+    <input type="hidden" rel="sub" name="" value="193491" />
+    <input type="hidden" rel="inv" name="" value="193491" />
+    <img src="/images/user/16891/193491.jpg?1495103388" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пересунько Алена</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="14032">
+  <div class="item it_my it_comp" id="it195848" rel="195848">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="195848" />
+    <input type="hidden" rel="sub" name="" value="195848" />
+    <input type="hidden" rel="inv" name="" value="195848" />
+    <img src="/images/user/16891/195848.jpg?1510830979" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пожидаев Евгений</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="10161">
+  <div class="item it_my it_comp" id="it161877" rel="161877">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="161877" />
+    <input type="hidden" rel="sub" name="" value="161877" />
+    <input type="hidden" rel="inv" name="" value="161877" />
+    <img src="/images/user/16891/161877.jpg?1504079101" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Приходько Полина</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5584">
+  <div class="item it_my it_comp" id="it86786" rel="86786">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="86786" />
+    <input type="hidden" rel="sub" name="" value="86786" />
+    <input type="hidden" rel="inv" name="" value="86786" />
+    <img src="/images/user/16891/86786.jpg?1414842299" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Прус Александр</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360098" rel="360098">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360098" />
+    <input type="hidden" rel="sub" name="" value="360098" />
+    <input type="hidden" rel="inv" name="" value="360098" />
+    <img src="/images/user/16891/360098.jpg?1539094394" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Тур Алексей</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_to it_mng it_my it_comp it_dept it_subs act" id="it101419" rel="101419">
+    <span class="ico ico_r ico_role" data-title="Руководитель проекта" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="101419" />
+    <input type="hidden" rel="sub" name="save_user[]" value="101419" />
+    <input type="hidden" rel="inv" name="" value="101419" />
+    <img src="/images/user/16891/101419.jpg?1446735063" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Цолин Борис</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5503">
+  <div class="item it_my it_comp" id="it342917" rel="342917">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="342917" />
+    <input type="hidden" rel="sub" name="" value="342917" />
+    <input type="hidden" rel="inv" name="" value="342917" />
+    <img src="/images/user/16891/342917.jpg?1528381728" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Черненко Владислав</font>  </div>
+  </div>
+    <div class="item_ itemh" data-sub="5897">
+  <div class="item it_my it_comp it_dept" id="it360191" rel="360191">
+    <span class="ico ico_r ico_role" ></span>
+        <span class="ico ico_l ico_priv"></span>
+    <span class="ico ico_r ico_subs ico_subsh"></span>
+    <span class="ico ico_r ico_subs_hint ico_subsh_hint" data-on="подписать" data-off="отписать"></span>
+    <input type="hidden" rel="hid" name="" value="360191" />
+    <input type="hidden" rel="sub" name="" value="360191" />
+    <input type="hidden" rel="inv" name="" value="360191" />
+    <img src="/images/user/16891/360191.jpg?1540385202" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Шестаков Виталий</font>  </div>
+  </div>
+  <div class="clear"></div>
+     </div>
+        <div class="sub" data-sub="5584" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Верстка</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="15786" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Доработки SEO</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="5739" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Менеджеры</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="14032" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Москва</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="5516" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>отдел дизайна</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="10553" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Отдел маркетинга и PR</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="10161" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Отдел проектирования</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="5503" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Программирование</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="5897" style="display:none">
+   <div class="subtitle">   
+          <a onclick="member_subscribe_group(this);return false" class="inline_fnt">
+       <font>Техническая поддержка</font>
+       <span class="ico ico_act_sm"></span>
+     </a>
+        </div>
+      </div>
+      <div class="sub" data-sub="0" style="display:none">
+   <div class="subtitle">
+          <a onclick="member_subscribe_group(this); return false" class="inline_fnt">
+       <font>Без отдела</font>
+       <span class="ico ico_act_sm"></span>
+     </a>   
+        </div>
+      </div>
+         <div class="clear"></div>
+    </div>
+      </div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+<div id="dropusermenu" class="dropmenu" style="display:none">
+<div class="drophead">
+  <div class="quick_search"><input type="text" onkeyup="user_quick_search(this, '#ubl_list1')" id="pbl_in" value="" placeholder="Найти" class="input" /></div>
+</div>
+<div id="ubl_list1" class="user_list tb_scroll_zone key_zone" data-select=".user">
+        <div class="group group1st">
+         <div class="sub">
+      <div class="subtitle">Верстка</div>
+     <a href="#" onclick="member_invite(this, 162512); return false" class="user" data-text="babenko.m@wezom.com.ua Maryna Babenko">
+    <img src="/images/user/16891/162512.jpg?1468610215" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Бабенко Марина  </a>
+    <a href="#" onclick="member_invite(this, 86786); return false" class="user" data-text="prus.a@wezom.com.ua Aleksandr Prus">
+    <img src="/images/user/16891/86786.jpg?1414842299" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Прус Александр  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Доработки SEO</div>
+     <a href="#" onclick="member_invite(this, 125605); return false" class="user" data-text="dokuchaev.v.wezom@gmail.com Vladyslav Dokuchaev">
+    <img src="/images/user/16891/125605.jpg?1483455720" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Докучаев Владислав  </a>
+    <a href="#" onclick="member_invite(this, 89586); return false" class="user" data-text="lisovoi.v.wezom@gmail.com Vladyslav Lysovoy">
+    <img src="/images/user/16891/89586.jpg?1415001629" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Лисовой Владислав  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Менеджеры</div>
+     <a href="#" onclick="member_invite(this, 89345); return false" class="user" data-text="aggred189@gmail.com Dmytryy Andreychenko">
+    <img src="/images/user/16891/89345.jpg?1478709894" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Андрейченко Дмитрий  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Москва</div>
+     <a href="#" onclick="member_invite(this, 195848); return false" class="user" data-text="pozhidaev.e.wezom@gmail.com Evhenyy Pozhydaev">
+    <img src="/images/user/16891/195848.jpg?1510830979" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пожидаев Евгений  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">отдел дизайна</div>
+     <a href="#" onclick="member_invite(this, 89562); return false" class="user" data-text="yurik417@gmail.com Juryy Lynnyk">
+    <img src="/images/user/16891/89562.jpg?1415212078" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Линник Юрий  </a>
+    <a href="#" onclick="member_invite(this, 193491); return false" class="user" data-text="peresunko.a.wezom@gmail.com Alena Peresunko">
+    <img src="/images/user/16891/193491.jpg?1495103388" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пересунько Алена  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Отдел маркетинга и PR</div>
+     <a href="#" onclick="member_invite(this, 328582); return false" class="user" data-text="varlamov.a.wezom@gmail.com Aleksey Varlamov">
+    <img src="/images/user/16891/328582.jpg?1522763075" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Варламов Алексей  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Отдел проектирования</div>
+     <a href="#" onclick="member_invite(this, 161877); return false" class="user" data-text="prykhodko.p@wezom.com.ua Polyna Prykhodko">
+    <img src="/images/user/16891/161877.jpg?1504079101" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Приходько Полина  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Программирование</div>
+     <a href="#" onclick="member_invite(this, 96310); return false" class="user" data-text="zavatsky.d@wezom.com.ua Denys Zavatskyy">
+    <img src="/images/user/16891/96310.jpg?1426755396" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Завацкий Денис  </a>
+    <a href="#" onclick="member_invite(this, 342917); return false" class="user" data-text="chernenko.v@wezom.com.ua Vladyslav Chernenko">
+    <img src="/images/user/16891/342917.jpg?1528381728" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Черненко Владислав  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Техническая поддержка</div>
+     <a href="#" onclick="member_invite(this, 326849); return false" class="user" data-text="belyi.a@wezom.com.ua Artem Belyy">
+    <img src="/images/user/16891/326849.jpg?1519141741" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Белый Артем  </a>
+    <a href="#" onclick="member_invite(this, 360170); return false" class="user" data-text="bozhet.e.wezom@gmail.com Evhenyy Bozhet">
+    <img src="/images/user/16891/360170.jpg?1540385265" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Божет Евгений  </a>
+    <a href="#" onclick="member_invite(this, 360476); return false" class="user" data-text="volchanovskyi.a.wezom@gmail.com Aleksandr Volchanovskyy">
+    <img src="/images/user/16891/360476.jpg?1543824037" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Волчановский Александр  </a>
+    <a href="#" onclick="member_invite(this, 360829); return false" class="user" data-text="zharikov.d.wezom@gmail.com Dmytryy Zharykov">
+    <img src="/images/user/16891/360829.jpg?1550484689" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий  </a>
+    <a href="#" onclick="member_invite(this, 91331); return false" class="user" data-text="zdimon77@gmail.com Dmytryy Zharykov">
+    <img src="/images/user/16891/91331.jpg?1441802309" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий  </a>
+    <a href="#" onclick="member_invite(this, 360254); return false" class="user" data-text="kramarenko.al.wezom@gmail.com Aleksey Kramarenko">
+    <img src="/images/user/16891/360254.jpg?1547469730" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крамаренко Алексей  </a>
+    <a href="#" onclick="member_invite(this, 161534); return false" class="user" data-text="krutov.p.wezom@gmail.com Petr Krutov">
+    <img src="/images/user/16891/161534.jpg?1467034580" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крутов Петр  </a>
+    <a href="#" onclick="member_invite(this, 360040); return false" class="user" data-text="matyash.a@wezom.com.ua Andrey Matjash">
+    <img src="/images/user/16891/360040.jpg?1538129820" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Матяш Андрей  </a>
+    <a href="#" onclick="member_invite(this, 348872); return false" class="user" data-text="ostroverh.k.wezom@gmail.com Konstantyn Ostroverkh">
+    <img src="/images/user/16891/348872.jpg?1533016119" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Островерх Константин  </a>
+    <a href="#" onclick="member_invite(this, 360098); return false" class="user" data-text="tur.a@wezom.com.ua Aleksey Tur">
+    <img src="/images/user/16891/360098.jpg?1539094394" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Тур Алексей  </a>
+    <a href="#" onclick="member_invite(this, 101419); return false" class="user" data-text="tsolin.b.wezom@gmail.com Borys Tsolyn">
+    <img src="/images/user/16891/101419.jpg?1446735063" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Цолин Борис  </a>
+    <a href="#" onclick="member_invite(this, 360191); return false" class="user" data-text="shestakov.v.wezom@gmail.com Vytalyy Shestakov">
+    <img src="/images/user/16891/360191.jpg?1540385202" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Шестаков Виталий  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Без отдела</div>
+     <a href="#" onclick="member_invite(this, 85894); return false" class="user" data-text="wezom001@gmail.com Serhey Huzenko">
+    <img src="/images/user/16891/85894.jpg?1440681195" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Гузенко Сергей  </a>
+    <a href="#" onclick="member_invite(this, 86465); return false" class="user" data-text="jangewar@gmail.com Artem Yljanoy">
+    <img src="/images/user/16891/86465.jpg?1415105326" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Ильяной Артем  </a>
+     </div>
+          </div>
+        <div class="group group_extra">
+      <a href="#" onclick="member_invite(this, -1); return false" class="user user_noav" rel="none nobody">никого <span class="qkey">nobody</span></a>
+      <a href="#" onclick="member_invite(this, -8); return false" class="user user_noav" rel="me my iam я">меня <span class="qkey">me</span></a>
+            <a href="#" onclick="member_invite(this, -3); return false" class="user user_noav" rel="boss lead manager">руководителя проекта  <span class="qkey">boss</span></a>
+            <a href="#" onclick="member_invite(this, -5); return false" class="user user_noav" rel="dept department">мой отдел <span class="qkey">department</span></a>
+            <a href="#" onclick="member_invite(this, -7); return false" class="user user_noav" rel="all project">всех <span class="qkey">all</span></a>
+    </div>
+      <div class="item_empty drop_empty">Ничего не найдено</div>
+  </div>
+</div>
+<div id="droprespmenu" class="dropmenu  dropmenu_tp2 dropfilt" style="display:none">
+<div class="drophead">
+  <div class="quick_search"><input type="text" onkeyup="user_quick_search(this, '#ubl_list2')" id="pbl_in" value="" placeholder="Найти" class="input" /></div>
+</div>
+<div id="ubl_list2" class="user_list tb_scroll_zone key_zone" data-select=".user">
+        <div class="group group1st">
+         <div class="sub">
+      <div class="subtitle">Верстка</div>
+     <a id="rsp162512" href="#" onclick="resp_select(this, 162512, 28396); return false" class="user" data-text="babenko.m@wezom.com.ua Maryna Babenko">
+    <img src="/images/user/16891/162512.jpg?1468610215" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Бабенко Марина  </a>
+    <a id="rsp86786" href="#" onclick="resp_select(this, 86786, 28396); return false" class="user" data-text="prus.a@wezom.com.ua Aleksandr Prus">
+    <img src="/images/user/16891/86786.jpg?1414842299" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Прус Александр  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Доработки SEO</div>
+     <a id="rsp125605" href="#" onclick="resp_select(this, 125605, 28396); return false" class="user" data-text="dokuchaev.v.wezom@gmail.com Vladyslav Dokuchaev">
+    <img src="/images/user/16891/125605.jpg?1483455720" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Докучаев Владислав  </a>
+    <a id="rsp89586" href="#" onclick="resp_select(this, 89586, 28396); return false" class="user" data-text="lisovoi.v.wezom@gmail.com Vladyslav Lysovoy">
+    <img src="/images/user/16891/89586.jpg?1415001629" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Лисовой Владислав  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Менеджеры</div>
+     <a id="rsp89345" href="#" onclick="resp_select(this, 89345, 28396); return false" class="user" data-text="aggred189@gmail.com Dmytryy Andreychenko">
+    <img src="/images/user/16891/89345.jpg?1478709894" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Андрейченко Дмитрий  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Москва</div>
+     <a id="rsp195848" href="#" onclick="resp_select(this, 195848, 28396); return false" class="user" data-text="pozhidaev.e.wezom@gmail.com Evhenyy Pozhydaev">
+    <img src="/images/user/16891/195848.jpg?1510830979" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пожидаев Евгений  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">отдел дизайна</div>
+     <a id="rsp89562" href="#" onclick="resp_select(this, 89562, 28396); return false" class="user" data-text="yurik417@gmail.com Juryy Lynnyk">
+    <img src="/images/user/16891/89562.jpg?1415212078" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Линник Юрий  </a>
+    <a id="rsp193491" href="#" onclick="resp_select(this, 193491, 28396); return false" class="user" data-text="peresunko.a.wezom@gmail.com Alena Peresunko">
+    <img src="/images/user/16891/193491.jpg?1495103388" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Пересунько Алена  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Отдел маркетинга и PR</div>
+     <a id="rsp328582" href="#" onclick="resp_select(this, 328582, 28396); return false" class="user" data-text="varlamov.a.wezom@gmail.com Aleksey Varlamov">
+    <img src="/images/user/16891/328582.jpg?1522763075" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Варламов Алексей  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Отдел проектирования</div>
+     <a id="rsp161877" href="#" onclick="resp_select(this, 161877, 28396); return false" class="user" data-text="prykhodko.p@wezom.com.ua Polyna Prykhodko">
+    <img src="/images/user/16891/161877.jpg?1504079101" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Приходько Полина  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Программирование</div>
+     <a id="rsp96310" href="#" onclick="resp_select(this, 96310, 28396); return false" class="user" data-text="zavatsky.d@wezom.com.ua Denys Zavatskyy">
+    <img src="/images/user/16891/96310.jpg?1426755396" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Завацкий Денис  </a>
+    <a id="rsp342917" href="#" onclick="resp_select(this, 342917, 28396); return false" class="user" data-text="chernenko.v@wezom.com.ua Vladyslav Chernenko">
+    <img src="/images/user/16891/342917.jpg?1528381728" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Черненко Владислав  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Техническая поддержка</div>
+     <a id="rsp326849" href="#" onclick="resp_select(this, 326849, 28396); return false" class="user" data-text="belyi.a@wezom.com.ua Artem Belyy">
+    <img src="/images/user/16891/326849.jpg?1519141741" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Белый Артем  </a>
+    <a id="rsp360170" href="#" onclick="resp_select(this, 360170, 28396); return false" class="user" data-text="bozhet.e.wezom@gmail.com Evhenyy Bozhet">
+    <img src="/images/user/16891/360170.jpg?1540385265" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Божет Евгений  </a>
+    <a id="rsp360476" href="#" onclick="resp_select(this, 360476, 28396); return false" class="user" data-text="volchanovskyi.a.wezom@gmail.com Aleksandr Volchanovskyy">
+    <img src="/images/user/16891/360476.jpg?1543824037" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Волчановский Александр  </a>
+    <a id="rsp360829" href="#" onclick="resp_select(this, 360829, 28396); return false" class="user" data-text="zharikov.d.wezom@gmail.com Dmytryy Zharykov">
+    <img src="/images/user/16891/360829.jpg?1550484689" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий  </a>
+    <a id="rsp91331" href="#" onclick="resp_select(this, 91331, 28396); return false" class="user" data-text="zdimon77@gmail.com Dmytryy Zharykov">
+    <img src="/images/user/16891/91331.jpg?1441802309" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Жариков Дмитрий  </a>
+    <a id="rsp360254" href="#" onclick="resp_select(this, 360254, 28396); return false" class="user" data-text="kramarenko.al.wezom@gmail.com Aleksey Kramarenko">
+    <img src="/images/user/16891/360254.jpg?1547469730" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крамаренко Алексей  </a>
+    <a id="rsp161534" href="#" onclick="resp_select(this, 161534, 28396); return false" class="user" data-text="krutov.p.wezom@gmail.com Petr Krutov">
+    <img src="/images/user/16891/161534.jpg?1467034580" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Крутов Петр  </a>
+    <a id="rsp360040" href="#" onclick="resp_select(this, 360040, 28396); return false" class="user" data-text="matyash.a@wezom.com.ua Andrey Matjash">
+    <img src="/images/user/16891/360040.jpg?1538129820" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Матяш Андрей  </a>
+    <a id="rsp348872" href="#" onclick="resp_select(this, 348872, 28396); return false" class="user" data-text="ostroverh.k.wezom@gmail.com Konstantyn Ostroverkh">
+    <img src="/images/user/16891/348872.jpg?1533016119" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Островерх Константин  </a>
+    <a id="rsp360098" href="#" onclick="resp_select(this, 360098, 28396); return false" class="user" data-text="tur.a@wezom.com.ua Aleksey Tur">
+    <img src="/images/user/16891/360098.jpg?1539094394" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Тур Алексей  </a>
+    <a id="rsp101419" href="#" onclick="resp_select(this, 101419, 28396); return false" class="user" data-text="tsolin.b.wezom@gmail.com Borys Tsolyn">
+    <img src="/images/user/16891/101419.jpg?1446735063" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Цолин Борис  </a>
+    <a id="rsp360191" href="#" onclick="resp_select(this, 360191, 28396); return false" class="user" data-text="shestakov.v.wezom@gmail.com Vytalyy Shestakov">
+    <img src="/images/user/16891/360191.jpg?1540385202" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Шестаков Виталий  </a>
+     </div>
+         <div class="sub">
+      <div class="subtitle">Без отдела</div>
+     <a id="rsp85894" href="#" onclick="resp_select(this, 85894, 28396); return false" class="user" data-text="wezom001@gmail.com Serhey Huzenko">
+    <img src="/images/user/16891/85894.jpg?1440681195" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Гузенко Сергей  </a>
+    <a id="rsp86465" href="#" onclick="resp_select(this, 86465, 28396); return false" class="user" data-text="jangewar@gmail.com Artem Yljanoy">
+    <img src="/images/user/16891/86465.jpg?1415105326" class="av_sm av_i" border="0" width="24" height="24" alt=""  /> Ильяной Артем  </a>
+     </div>
+          </div>
+        <div class="group group_extra">
+            <a id="rsp2" href="#" onclick="resp_select(this, 2, 0); return false" class="user" rel="noone nobody"><span class="av_sm av_def av_def2" ></span> Любой сотрудник</a>
+    </div>
+      <div class="item_empty drop_empty">Ничего не найдено</div>
+  </div>
+</div>
+<div id="droptreemenu" class="dropmenu dropfilt" style="display:none" data-load-menu="/project/166584/ajax/?action=load_tree&mda=2b2959ccc2fab180c1675330b122fd65">Загружается...</div>
+<script language="javascript" type="text/javascript">
+window.allow_editor_invite = 2;
+window.allow_editor_task = 1;
+window.resp_selected = false;
+window.resp_forced = false;
+window.resp_def = 101419;
+function resp_force(id) {
+  if (id) window.resp_forced = true;
+  if(!window.resp_selected && window.resp_forced) $('#rsp' + (id ? id : resp_def)).click();
+}
+function resp_select(el, id, id_group) {
+  if ($(last_dropmenu).attr('id') == 'dropresp') window.resp_selected = true;
+  $('#dropresp').parent().addClass('user_to_act');
+  $('#dropresp').find('b').html($(el).html());
+  $('#dropresp').next().val(id);
+  if ($(last_dropmenu).attr('id') == 'dropresp') drophide();
+  member_to(id); }
+function resp_delete(el) {
+  if ($(el).parent().hasClass('user_to_act')) {
+    $(el).parent().removeClass('user_to_act'); 
+    $(el).next().next().next().next().val(1).prev().find('b').html('<span class=\"av_sm av_def av_def0\" ></span>Без ответственного');
+    member_to(0);   } 
+}
+</script>
+<div class="buttons_center">
+<a id="draft_save" onclick="autosave_htmlarea(); return false">Сохранить черновик</a>
+<input type="hidden" name="action" value="save" /><input type="hidden" name="mda" value="2e423e0d3a5ff120de413d3c10cfcf33" /><a onclick="if(document.frm.onsubmit()) document.frm.submit(); return false" class="button button_big button_task"><span class="ico ico_r ico_newtask"></span><span class="ico ico_r ico_newtask1"></span><span class="ico ico_r ico_newtask2"></span>Создать задачу</a>
+</div>
+</form>
+<script language="javascript" type="text/javascript">
+window.allowpresave = 2;
+</script>
+<input type="hidden" id="def_mda" value="7ba1db5e7103222857c8d859fb379ded" />
+ 
+    </div>
+        <div class="clear"></div>
+  </div>
+</div>
+</div>
+<input type="hidden" id="desktop_push" value="1" data-domen="www-cc.worksection.com" data-lang="1" />
+  <a name="foot"></a>
+  <div id="priority_popup" class="dropmenu" style="display:none" data-action="action=set_priority&mda=8fa4b4c16d2326ac09a2e63e1d8fb607">
+    <a rel="0" class="pra pra0"><span class="prior0"><b>ll</b></span></a>
+        <a rel="1" class="pra pra1"><span class="prior1">1</span></a>
+        <a rel="2" class="pra pra2"><span class="prior2">2</span></a>
+        <a rel="3" class="pra pra3"><span class="prior3">3</span></a>
+        <a rel="4" class="pra pra4"><span class="prior4">4</span></a>
+        <a rel="5" class="pra pra5"><span class="prior5">5</span></a>
+        <a rel="6" class="pra pra6"><span class="prior6">6</span></a>
+        <a rel="7" class="pra pra7"><span class="prior7">7</span></a>
+        <a rel="8" class="pra pra8"><span class="prior8">8</span></a>
+        <a rel="9" class="pra pra9"><span class="prior9">9</span></a>
+        <a rel="10" class="pra pra10"><span class="prior10">10</span></a>
+        <div class="clear"></div>
+    <div class="notify_block notify_block_act">
+      <a id="opt_notify1" class="ign_select" onclick="$('#opt_notify1, #opt_notify2').parent().toggleClass('notify_block_act'); if ($(this).parent().hasClass('notify_block_act')) {$.ajax({url: '/ajax/?action=save_notify&mda=de0da4595832bbc684379a29ed1650fd&is_notify=1'}); $('#opt_notify1, #opt_notify2').find('input').val(''); $('#opt_notify1, #opt_notify2').find('.inline').html('Уведомить', true); } else {$.ajax({url: '/ajax/?action=save_notify&mda=de0da4595832bbc684379a29ed1650fd&is_notify=0'}); $('#opt_notify1, #opt_notify2').find('input').val(1); $('#opt_notify1, #opt_notify2').find('.inline').html('Не уведомлять', true);} return false">
+        <span class="ico ico_l ico_subsbig"></span>
+        <span class="inline">Уведомить</span>
+        <input type="hidden" name="skip_notify" value="" />
+      </a>
+    </div>
+  </div>
+  <div id="delcom_block" style="display:none">
+    <div class="buttons">
+      <a class="button button_white ign_select">Отменить</a>
+      <a class="button button_error ign_select">Удалить</a>
+    </div>
+    <div class="notify_block notify_block_act">
+      <a id="opt_notify2" class="ign_select" onclick="$('#opt_notify1').trigger('click'); return false">
+        <span class="ico ico_l ico_subsbig"></span>
+        <span class="inline">Уведомить</span>
+        <input type="hidden" name="skip_notify" value="" />
+      </a>
+    </div>
+  </div>
+  <div id="confirmmenu" class="dropmenu" style="display:none">
+    <div class="error_sm text"></div>
+    <div class="buttons">
+      <a class="button button_white ign_select" onclick="drophide();">Отменить</a>
+      <a class="button button_error ign_select" onclick="drophide(true); do_confirm(this)">Удалить</a>
+    </div>
+  </div>
+  <div id="dropglobalmenu" class="dropmenu" style="display:none" data-drop-title="Задача" data-drop-title2="Подзадача" data-drop-title3="Проект"></div>
+    <div id="loading_overlay"><div class="loader"></div></div>
+  <div id="project_overlay">
+    <div class="in">
+      <span class="ico_big"></span>
+      <b>Выберите проект</b>
+      <div class="or"><span>или</span></div>
+            <a class="button button_white" onclick="$('body').removeClass('project_overlay'); return false">Отменить</a>
+            <a class="button button_white hmenu_allow" style="display:none">Без проекта</a>
+    </div>
+  </div>
+  <div id="dropmenu_overlay" onclick="drophide();"></div>
+  <div id="dropmenu_place"></div>
+  <div id="preview_place"></div>
+  <a id="goto_top"></a>
+  <a id="goto_foot"></a>
+  <!--div id="log_keyboard" style="display:none;position:fixed; left:0; bottom:0; background:#fff; padding:5px; font:11px/14px Arial; white-space:nowrap"></div-->
+<input type="hidden" id="my_shift" value="91" /><input type="hidden" id="my_email" value="360829:zharikov.d.wezom@gmail.com" /><div class="bounce bounce1"></div>
+<div class="bounce bounce2"></div>
+<div class="bounce bounce3"></div>
+<div class="bounce bounce4"></div>
+<a href="/profile/?action=theme_on_ses&mda=6254e6b40546f0fa35eabea7acb7054a&is_back=1" class="quick_theme"></a>
+<div id="applause"><u></u><div></div><span></span><i></i><a class="button button_sm button_trans_border">больше не показывать</a></div>
+</body>
+
+</html>

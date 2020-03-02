@@ -1,0 +1,42 @@
+ion-label {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    padding-left: 40px;
+}
+
+.img > img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+ion-text {
+    padding: 10px;
+}
+
+ion-row{
+    ion-textarea{
+       border: solid 1px silver;
+       height: 60px;
+       border-radius: 5px;
+       padding-left: 10px;
+    }
+ }
+
+
+ .border-bottom {
+     border-bottom: 1px solid silver;
+ }
+
+ .line-breaker {
+    white-space: pre-line;
+  }
+
+ion-select {
+    
+    border: 1px solid #488aff;
+    border-radius: 5px;
+}
