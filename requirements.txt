@@ -1,5 +1,5 @@
 wheel
-Django==2.1.7
+Django==2.2.10
 django-modeltranslation
 django-grappelli
 python-telegram-bot==12.0.0b1
